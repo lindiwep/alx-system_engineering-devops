@@ -1,1 +1,1 @@
-100 change owner and group
+Symbolic links
