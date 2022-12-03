@@ -1,1 +1,1 @@
-3 listfiles
+5 listfilesdigitonly
