@@ -1,1 +1,1 @@
-101 symbolic link permissions
+102 if only
