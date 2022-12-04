@@ -1,1 +1,1 @@
-if only
+101 symbolic link permissions
