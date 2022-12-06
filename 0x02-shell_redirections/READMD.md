@@ -1,1 +1,1 @@
-7 file
+9 duplicate last line
