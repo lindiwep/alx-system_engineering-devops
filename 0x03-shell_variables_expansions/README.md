@@ -1,1 +1,1 @@
-5 local variables
+6 local variables
