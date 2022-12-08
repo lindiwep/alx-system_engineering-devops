@@ -1,1 +1,1 @@
-8 true knowledge
+9 divide and rule
