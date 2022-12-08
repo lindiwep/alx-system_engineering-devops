@@ -1,1 +1,1 @@
-6 local variables
+7 create global variable
