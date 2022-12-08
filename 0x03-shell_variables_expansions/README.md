@@ -1,1 +1,1 @@
-10 love exponent breath
+11 binary to decimal
