@@ -1,1 +1,1 @@
-100 decimal to hexadecimal
+102 odd
